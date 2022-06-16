@@ -2,7 +2,7 @@ print("\n******************* Python Calculator *******************")
 
 #Tela descritiva de escolha do usuário
 
-print('Escolha a operação desejada (1 a 4), conforme valores indicados abaixo:\n')
+print('Escolha a operação desejada (1 a 5), conforme valores indicados abaixo:\n')
 operacoes = ['1 - Adição', '2 - Subtração', '3 - Multiplicação', '4 - Divisão', '5 - Potência']
 for x in operacoes:
     print(x)
